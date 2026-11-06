@@ -1,0 +1,20 @@
+[
+  {
+    "test_id": "TC-01",
+    "scenario": "Klaim Kesehatan & Tunjangan",
+    "user_input": "Halo! Saya karyawan baru hari ini. Di mana saya bisa menemukan dokumen panduan untuk klaim kesehatan dan tunjangan kantor?",
+    "agent_response": "Halo! Selamat datang di tim kami! Senang sekali bisa mendampingi hari pertama Anda. Untuk dokumen panduan terkait klaim kesehatan dan tunjangan, Anda bisa mengakses folder 'HR Portal & Benefit Guidelines' di Google Drive perusahaan atau melihat bab 4 pada Buku Panduan Karyawan Baru. Jika ada prosedur yang masih membingungkan, jangan ragu untuk tanyakan ke saya ya. Semangat untuk hari pertamanya!"
+  },
+  {
+    "test_id": "TC-02",
+    "scenario": "Panduan Hari Pertama",
+    "user_input": "Halo! Saya karyawan baru di sini. Boleh bantu saya tahu apa saja yang harus saya lakukan di hari pertama ini?",
+    "agent_response": "Halo! Selamat datang di tim kami! Senang sekali bisa menjadi Buddy Anda hari ini. Hari pertama biasanya sangat seru! Berikut adalah beberapa hal penting yang perlu:\n1. Lengkapi Administrasi: Pastikan dokumen HR Anda sudah lengkap. Anda bisa mengunggahnya melalui portal HR.\n2. Akses Akun: Aktifkan email perusahaan dan akun Slack/Teams Anda.\n3. Perkenalan: Jangan ragu untuk menyapa rekan tim Anda di grup!\n4. Cek Handbook: Baca buku panduan karyawan baru yang bisa Anda unduh di panel dokumen.\nJika ada yang membingungkan atau Anda butuh bantuan untuk tugas tertentu, silakan tanyakan saja ya! Semoga hari pertama Anda menyenangkan!"
+  },
+  {
+    "test_id": "TC-03",
+    "scenario": "Jam Kerja dan Pengajuan Cuti",
+    "user_input": "Terima kasih! Sangat membantu. Oh ya, kalau untuk jam kerja dan pengajuan cuti, ketentuannya bagaimana ya?",
+    "agent_response": "Sama-sama! Untuk jam kerja dan cuti, ini dia aturannya:\n- Jam Kerja: Standar jam kerja kita adalah pukul 09.00 - 18.00 WIB (Senin-Jumat) dengan waktu istirahat fleksibel selama 1 jam.\n- Pengajuan Cuti: Anda berhak mendapatkan cuti tahunan setelah masa probation selesai. Pengajuan bisa dilakukan melalui sistem HRIS minimal 3 hari sebelum cuti (kecuali keperluan darurat).\nDetail lengkapnya bisa Anda baca di 'FAQ_SOP_Perusahaan.docx'. Apakah ada hal lain yang ingin Anda ketahui tentang fasilitas kantor?"
+  }
+]
